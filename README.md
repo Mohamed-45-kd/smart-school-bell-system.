@@ -18,3 +18,7 @@ Python, Flask, HTML, CSS, JavaScript
 ## How to Run
 pip install flask
 python app.py
+
+Demo Video
+# this is the Explanation video about the project
+[watch on youtube]https://www.youtube.com/watch?v=zJnnpJz2Fzg
